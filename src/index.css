@@ -37,6 +37,16 @@ body > div {
   color: white;
 }
 
+.yellow {
+  background-color: yellow;
+  color: black;
+}
+
+.green {
+  background-color: green;
+  color: white;
+}
+
 .home {
   background-color: gray;
 }
