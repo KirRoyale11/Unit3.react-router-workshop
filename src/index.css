@@ -18,6 +18,7 @@ body > div {
 #navbar {
   padding: 2em;
   justify-content: space-evenly;
+  font-weight: bold;
 }
 #main-section {
   flex-grow: 1;
@@ -49,4 +50,10 @@ body > div {
 
 .home {
   background-color: gray;
+}
+
+#footer {
+  padding: 2em;
+  justify-content: right;
+  
 }
